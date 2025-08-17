@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/_Will.sol": "Will"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/_Will.sol": {
+			"keccak256": "0x516d19127a0fc799b9c6c13b5b0c8a84808a6623e62c3f56beac61c3246b56b8",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://0a768f05d782b36d125b6dcc758faee26861c65aba41d16495a1699f708bbcf2",
+				"dweb:/ipfs/QmSzUB5JXCvMhcg9obkyLPtzLxVgAkMGxk7YqVmfEwRfwf"
+			]
+		}
+	},
+	"version": 1
+}
